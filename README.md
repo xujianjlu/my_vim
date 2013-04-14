@@ -22,27 +22,27 @@ I have add following usefull plugins you may need::
     ZoomWinPlugin.vim
 
 #### tips:
-before installing the configures, you need to install ctags, and cscope first.> 
-if the vim version in your computer is older than 7.2, it's better to update it.> 
-about how to use the plugins, you need to search them yourself, trust me, they are easy !> 
-> 
+before installing the configures, you need to install ctags, and cscope first. 
+if the vim version in your computer is older than 7.2, it's better to update it. 
+about how to use the plugins, you need to search them yourself, trust me, they are easy ! 
+  
 Having fun !
 
 ## Install
 ================
 #### 1. backup your own vim files.
-    mkdir vim_backup > 
-    mv ~/.vimrc vim_backup/ > 
-    mv ~/.vim/ vim_backup/ >
+    mkdir vim_backup  
+    mv ~/.vimrc vim_backup/  
+    mv ~/.vim/ vim_backup/ 
 
 #### 2. install new vim configures
-    mkdir my_vim >
-    cd my_vim >
-    git clone git@github.com:xujianjlu/my_vim.git >
-    cp .vimrc ~/.vimrc >
-    cp -r .vim/ ~/.vim >
+    mkdir my_vim 
+    cd my_vim 
+    git clone git@github.com:xujianjlu/my_vim.git 
+    cp .vimrc ~/.vimrc 
+    cp -r .vim/ ~/.vim 
 
 
 ## Show
 ================
-![Image text](http://github.com/xujian/my_vim/.raw/images/file_list.png)
+![Image text](http://github.com/xujianjlu/my_vim/.raw/images/file_list.png)
