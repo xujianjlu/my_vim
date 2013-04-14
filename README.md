@@ -45,4 +45,4 @@ Having fun !
 
 ## Show
 ================
-![Image text](http://github.com/xujianjlu/my_vim/.raw/images/file_list.png)
+![Image text](https://github.com/xujianjlu/my_vim/.raw/images/file_list.png)
