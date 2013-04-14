@@ -1,7 +1,7 @@
 ## my_vim
 ================
 This is my vim configure, Include vimrc, and the plugins.
-I have add following usefull plugins you may need::
+I have add following usefull plugins you may need
 
     acp.vim
     a.vim
@@ -46,4 +46,4 @@ Having fun !
 ## Show
 ----------------
 open a source file, and press F3  
-![Image text](https://github.com/xujianjlu/my_vim/.raw/images/file_list.png)
+![Image text](https://github.com/xujianjlu/my_vim/raw/images/file_list.png)
