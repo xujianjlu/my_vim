@@ -46,4 +46,4 @@ Having fun !
 ## Show
 ----------------
 open a source file, and press F3  
-![github](https://github.com/xujianjlu/my_vim/blob/master/raw/images/file_list.png "github")
+[https://github.com/xujianjlu/my_vim/blob/master/raw/images/file_list.png "github")]
