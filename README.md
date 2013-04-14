@@ -21,6 +21,8 @@ I have add following usefull plugins you may need
     wintagexplorer.vim
     ZoomWinPlugin.vim
 
+Reference: https://code.google.com/p/jeffy-vim/
+
 #### tips:
 before installing the configures, you need to install ctags, and cscope first.  
 if the vim version in your computer is older than 7.2, it's better to update it.  
@@ -45,5 +47,5 @@ Having fun !
 
 ## Show
 ----------------
-open a source file, and press F3  
+##### open a source file, and press F3  
 ![](https://raw.github.com/xujianjlu/my_vim/master/raw/images/file_list.png)
