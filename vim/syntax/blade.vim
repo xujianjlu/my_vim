@@ -1,0 +1,1 @@
+/var/work/trunk/blade/vim/syntax/blade.vim

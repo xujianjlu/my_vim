@@ -1,0 +1,1 @@
+/var/work/trunk/blade/vim/indent/blade.vim
