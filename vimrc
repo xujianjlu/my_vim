@@ -106,12 +106,6 @@ nmap <silent> <leader>cdr :exe 'cd ' . OpenDir<cr>:pwd<cr>
 nmap <silent> <leader>cdf :cd %:h<cr>:pwd<cr>
 
 " PLUGIN SETTINGS: {{{1
-" powerline{
-set fillchars+=stl:\ ,stlnc:\
-let g:Powerline_symbols = 'fancy'
-set term=xterm-256color
-"}
-
 " taglist.vim
 let g:Tlist_Auto_Update=1
 let g:Tlist_Process_File_Always=1
