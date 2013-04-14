@@ -47,5 +47,5 @@ Having fun !
 
 ## Show
 ----------------
-open a source file, and press F3  
+##### open a source file, and press F3  
 ![](https://raw.github.com/xujianjlu/my_vim/master/raw/images/file_list.png)
