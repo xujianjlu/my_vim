@@ -532,6 +532,12 @@ set   autoindent
 set   shiftwidth=4
 set   tabstop=4
 let b:current_syntax = "python"
+
+" added by xujian.
+set   autoindent
+set   shiftwidth=4
+set   tabstop=4
+let b:current_syntax = "python"
 " HIGHLIGHT ALL MATH OPERATOR
 syn match cMathOperator display "[-+\*/%=]"
 syn match cPointerOperator display "->\|\."
@@ -561,4 +567,3 @@ hi Character term=bold cterm=bold ctermfg=1 guifg=Orange guibg=grey5
 hi Number    term=bold cterm=bold ctermfg=1 guifg=Orange guibg=grey5 
 hi Boolean   term=bold cterm=bold ctermfg=1 guifg=Orange guibg=grey5 
 hi Float     term=bold cterm=bold ctermfg=1 guifg=Orange guibg=grey5 
-
